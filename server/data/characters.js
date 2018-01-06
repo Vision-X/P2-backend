@@ -1,5 +1,5 @@
 module.exports = {
-  characterSet: [{
+  characters: [{
       id: 1,
       name: 'Doomfist',
       role: 'Offense',
